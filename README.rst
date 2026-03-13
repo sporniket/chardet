@@ -1,6 +1,8 @@
 Chardet: The Universal Character Encoding Detector
 --------------------------------------------------
 
+  **2026-03-13** : this fork has been reverted to the last version (tag ``6.0.0.post1``) before the so called "clean room reimplementation under MIT licence". The original main branch of the fork has been preserved as a branch named ``main-so-called-clean-room-rewrite-under-mit--for-history-preservation-purpose``. Next step would be to register that fork under a new name in pypi, should I decide to update it later.
+
 .. image:: https://github.com/chardet/chardet/actions/workflows/test.yml/badge.svg?branch=main
    :alt: Build status
    :target: https://github.com/chardet/chardet/actions/workflows/test.yml
